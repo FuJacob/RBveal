@@ -4,7 +4,7 @@
   <br>
   <a href="https://fujacob.us/"><img src="rbveal.png" alt="rbveal" width="300"></a>
   <br>
-  RBVeal
+  RBveal
   <br>
 </h1>
 
