@@ -1,5 +1,14 @@
-# RBveal
-<img src="rbveal.png" alt="RBveal Logo" width="200" height="200">
+
+
+<h1 align="center">
+  <br>
+  <a href="https://fujacob.us/"><img src="rbveal.png" alt="rbveal" width="300"></a>
+  <br>
+  RBVeal
+  <br>
+</h1>
+
+
 
 ## 💡 Inspiration
 In today's digital age, young adults and students are increasingly "chronically online," making them prime targets for sophisticated cyber threats like spear phishing. Where the average [click rate of spear-phishing attempts are over **50%**](https://aag-it.com/the-latest-phishing-statistics/?utm_source=chatgpt.com). Cyber attacks are projected to [cost the global economy **$10.5 trillion**](https://cybersecurityventures.com/cybercrime-damages-6-trillion-by-2021/?utm_source=chatgpt.com) by 2025. 
@@ -9,6 +18,11 @@ RBveal addresses the problem of cybersecurity for students by simulating real-wo
 - Multi-Stage AI-Driven simulation, simulate a phone call from a bank representative who mimics real-world phishing tactics
 - An interactive learning experience for students to learn how to respond to cyber threats
 
+
+![screenshot](https://github.com/FuJacob/RBveal/blob/main/rbvealcover.png?raw=true)
+![screenshot](https://github.com/FuJacob/RBveal/blob/main/simulatedrbc.png?raw=true)
+
+
 ## 🖥️ How we built it
 
 ![Technologies Workflow](technologiesWorkflow.png)
@@ -16,6 +30,8 @@ RBveal addresses the problem of cybersecurity for students by simulating real-wo
 **Frontend:** Next.js, React, Tailwind CSS  
 **Backend:** Express.js, Node.js, Nodemailer, tailscale  
 **Live Audio Transcription:** twilio, OpenAI, Deepgram
+
+[![Video Title](https://img.youtube.com/vi/v8duvEudLiU/0.jpg)](https://www.youtube.com/watch?v=v8duvEudLiU)
 
 ## 🤔 Challenges we ran into
 
