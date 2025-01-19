@@ -8,6 +8,11 @@
   <br>
 </h1>
 
+## Check RBveal's demo video on <a href="https://www.youtube.com/watch?v=v8duvEudLiU" target="_blank"> https://www.youtube.com/watch?v=v8duvEudLiU </a>
+
+> **Note:**
+> Please note this demo video was recorded, edited, and produced 15 minutes before the hackathon deadline.
+
 
 
 ## 💡 Inspiration
@@ -30,8 +35,6 @@ RBveal addresses the problem of cybersecurity for students by simulating real-wo
 **Frontend:** Next.js, React, Tailwind CSS  
 **Backend:** Express.js, Node.js, Nodemailer, tailscale  
 **Live Audio Transcription:** twilio, OpenAI, Deepgram
-
-[![Video Title](https://img.youtube.com/vi/v8duvEudLiU/0.jpg)](https://www.youtube.com/watch?v=v8duvEudLiU)
 
 ## 🤔 Challenges we ran into
 
