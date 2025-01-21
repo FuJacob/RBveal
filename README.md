@@ -8,8 +8,10 @@
   <br>
 </h1>
 
-## Check RBveal's demo video on <a href="https://www.youtube.com/watch?v=v8duvEudLiU" target="_blank"> https://www.youtube.com/watch?v=v8duvEudLiU </a>
+### Demo Video
+[![Demo Video](https://img.youtube.com/vi/v8duvEudLiU/0.jpg)](https://www.youtube.com/watch?v=v8duvEudLiU)
 
+Our project was [submitted](https://dorahacks.io/buidl/21687) to [UofTHacks 12](https://dorahacks.io/hackathon/uofthacks/buidl) and won [1st Place for RBC's sponsor prize](https://dorahacks.io/hackathon/uofthacks/winner), winning $1000.
 > **Note:**
 > Please note this demo video was recorded, edited, and produced 15 minutes before the hackathon deadline.
 
